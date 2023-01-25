@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amyrz2
 - 👀 I’m interested in fashion, traveling, and tennis
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me amyruozhang@gmail.com
 
